@@ -89,6 +89,8 @@ Check out my writing on [Hashnode](https://pratikm363.hashnode.dev) — Kubernet
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=mandgepratik&color=2E97F7&style=for-the-badge&label=Profile+Views)
+
 ### 📫 Let's Connect
 
 <p align="center">
