@@ -9,6 +9,8 @@
   <a href="mailto:pratik.mandge21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=mandgepratik&color=2E97F7&style=for-the-badge&label=Profile+Views)</p>
+
 ---
 
 ### 🚀 About Me
@@ -88,8 +90,6 @@ Check out my writing on [Hashnode](https://pratikm363.hashnode.dev) — Kubernet
 </p>
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=mandgepratik&color=2E97F7&style=for-the-badge&label=Profile+Views)
 
 ### 📫 Let's Connect
 
