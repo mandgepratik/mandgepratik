@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Mandge</h1>
+<img width="1330" height="590" alt="image" src="https://github.com/user-attachments/assets/095c318c-8542-452c-8ab0-75e1a84f2a54" />
+
 <h3 align="center">AWS Certified DevOps & Cloud Engineer | Kubernetes | CI/CD | IAM & Cloud Identity</h3>
 
 <p align="center">
