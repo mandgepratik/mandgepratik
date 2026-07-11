@@ -64,8 +64,6 @@
 - **AI-Assisted DevSecOps CI/CD Pipeline** — End-to-end Jenkins + Docker + AWS pipeline with integrated SonarQube, Trivy, and OWASP security scanning, cutting manual effort by 80%
 - **Scalable Two-Tier App on AWS** — Dockerized two-tier architecture on EC2 with automated, secure CI/CD deployment
 
-*(Pin these on your profile via "Customize your pins" so they show up right below this README)*
-
 ---
 
 ### ✍️ Latest Blog Posts
