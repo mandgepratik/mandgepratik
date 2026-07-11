@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Cloud & DevOps Engineer at **WeAgile Software Solution**, managing production AWS infrastructure for high-traffic enterprise applications
+- 🔭 Cloud & DevOps Engineer, managing production AWS infrastructure for high-traffic enterprise applications
 - ☁️ 3+ years of experience across **AWS**, **CI/CD automation**, **Kubernetes/EKS**, and **SRE practices**
 - 🔐 Currently deep-diving into **Cloud Identity Engineering** — SSO, SAML 2.0, OIDC, OAuth 2.0, SCIM, MFA, JumpCloud, Zero Trust
 - 🛡️ Passionate about **DevSecOps** — shift-left security with SonarQube, Trivy, and OWASP Dependency Check
